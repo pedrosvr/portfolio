@@ -5,6 +5,7 @@ export default function Header() {
         <a href="#about">Sobre</a>
         <a href="#portfolio">Portfólio</a>
         <a href="#contact">Contato</a>
+        <a href="https://github.com/pedrosvr">Github</a>
       </nav>
       <div className="social">
         <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-saraiva/">
