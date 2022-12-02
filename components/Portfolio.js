@@ -1,0 +1,15 @@
+export default function Portfolio() {
+  return (
+    <section id="portfolio">
+      <div className="center">
+        <h2>Portfólio</h2>
+        <div className="portfolio-container">
+          <a href=""><img src="/img/dragonball.png" alt=""/></a>
+          <a href="https://github.com/pedrosvr/Personagens-de-Dragon-Ball-Super"><img src="/img/dragonball.png" alt=""/></a>
+          <a href="https://github.com/pedrosvr/Whatslab"><img src="/img/whatslab.png" alt=""/></a>
+          <a href="https://github.com/pedrosvr/Calculadora"><img src="/img/calculadora.png" alt=""/></a>
+        </div>
+      </div>
+    </section>
+  );
+}
