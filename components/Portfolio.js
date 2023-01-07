@@ -8,6 +8,7 @@ export default function Portfolio() {
           <a href="https://github.com/pedrosvr/Personagens-de-Dragon-Ball-Super"><img src="/img/dragonball.png" alt=""/></a>
           <a href="https://github.com/pedrosvr/Whatslab"><img src="/img/whatslab.png" alt=""/></a>
           <a href="https://github.com/pedrosvr/Calculadora"><img src="/img/calculadora.png" alt=""/></a>
+          <a href="https://github.com/pedrosvr/projeto-react-apis"><img src="/img/pokedex.PNG" alt=""/></a>
         </div>
       </div>
     </section>
